@@ -1,0 +1,11 @@
+.button {
+  color: White;
+  font-size: 25px;
+  font-family: 'Roboto';
+  background-color: transparent;
+  border-width: 0px;
+}
+.active-tab-id {
+  color: #fec653;
+  text-decoration: underline;
+}

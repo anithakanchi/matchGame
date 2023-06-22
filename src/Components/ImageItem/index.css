@@ -1,0 +1,11 @@
+.image-button {
+  background-color: transparent;
+  border-width: 0px;
+}
+.image {
+  width: 150px;
+  height: 150px;
+}
+.list-container {
+  list-style-type: none;
+}
